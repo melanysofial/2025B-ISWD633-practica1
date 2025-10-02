@@ -1,4 +1,4 @@
-#Imagen
+# Imagen
 ### Descargar imagen
 Descarga la última versión de la imagen disponible en el registro de Docker.
 
