@@ -1,1 +1,1 @@
-
+Antes tenia muy poco conocimiento de doker ya que lo había utilizado para un proyecto de Bases de Datos distribuidas para conectar las computadoras, pero no todos los comando aprendidos en esta práctica, me pareció interesante la descarga de imágenes y creación de contenedores mediantes los diversos comandos cada uno con una. Se me complicó un poco al no recordar los comandos de abrir archivos en el cmd de Windows, y el mapeo de puertos al buscar en en docker hub los puerto dependiendo lo que estamos empleando.
